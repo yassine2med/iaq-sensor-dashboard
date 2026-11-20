@@ -1,0 +1,1 @@
+# standard library only; pytest is needed to run the tests
