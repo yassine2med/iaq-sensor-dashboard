@@ -2,6 +2,8 @@
 
 # iaq-sensor-dashboard
 
+[![CI](https://github.com/yassine2med/iaq-sensor-dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/yassine2med/iaq-sensor-dashboard/actions/workflows/ci.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-3776ab) ![License](https://img.shields.io/badge/license-MIT-8fb08a)
+
 Indoor air quality sensors log CO2 and humidity all day, but a CSV of thousands of readings answers nothing. This tool turns it into a per-room summary, a list of the periods when a room was poorly ventilated or too dry, and a one-page HTML dashboard with a CO2 chart per room.
 
 ![Screenshot](docs/screenshot.png)
