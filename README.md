@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="iaq-sensor-dashboard" width="100%"></p>
+
 # iaq-sensor-dashboard
 
 Indoor air quality sensors log CO2 and humidity all day, but a CSV of thousands of readings answers nothing. This tool turns it into a per-room summary, a list of the periods when a room was poorly ventilated or too dry, and a one-page HTML dashboard with a CO2 chart per room.
